@@ -1,0 +1,14 @@
+{
+  "Nickname": "",
+  "Visibility": "Visible",
+  "OneLineDescription": "",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [
+    "Alternate Skyrim.esp"
+  ],
+  "TargetedReleases": [
+    "SkyrimSE",
+    "SkyrimSEGog"
+  ]
+}
